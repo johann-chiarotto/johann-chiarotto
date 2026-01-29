@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 <h3 align="center">Cybersecurity student</h3>
 
+- 🔭 I’m currently working on **CTF creation**
+
+- 🌱 I’m currently learning **cybersécurity**
+
+- 👨‍💻 All of my projects are available at [https://johannch.cloud](https://johannch.cloud)
+
+- 📫 How to reach me **chiarottojohannpro@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/johannch.cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johannch.cloud" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/johann-chiarotto-b40713365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johann-chiarotto-b40713365/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/948305144263639110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/948305144263639110" height="30" width="40" /></a>
 </p>
