@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CTF creation**
 
-- 🌱 I’m currently learning **cybersécurity**
+- 🌱 I’m currently learning **I am currently studying in my second year of a Bachelor's degree in cybersecurity.**
 
 - 👨‍💻 All of my projects are available at [https://johannch.cloud](https://johannch.cloud)
 
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johann-chiarotto-b40713365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johann-chiarotto-b40713365/" height="30" width="40" /></a>
+<br>
 <a href="https://discord.gg/https://discord.com/users/948305144263639110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/948305144263639110" height="30" width="40" /></a>
 </p>
 
